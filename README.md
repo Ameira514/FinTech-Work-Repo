@@ -1,11 +1,19 @@
 # FinTech_Work_Repo
+
+![markdown-image-link](Chicago_Skyline.jpeg)
+
 ---
 ## Future Work Repositories
 ---
-### I. Who I am
-### II. Past Career Experience
-### III. Future Goals
-### IV. Why I Chose FinTech
+### Table of Contents
+I. Who I am
+
+II. Past Career Experience
+
+III. Future Goals
+
+IV. Why I Chose FinTech
+
 ---
 
  I. My name is Ameira Matariyeh. I live in the Southwest Side of Chicago.
@@ -15,3 +23,11 @@
  III. My career goals are to move into the FinTech arena
  
  IV. I chose FinTech because I feel that is where the future is headed and I want to understand this industry better.
+
+ [Data](data/)
+
+ [References](References/)
+
+ [Images](Images/)
+
+ [Code](Code/)
